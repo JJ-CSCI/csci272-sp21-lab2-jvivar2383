@@ -1,0 +1,6 @@
+a.out
+*.o
+.github
+*.pdf
+*.sol.*
+.vscode
